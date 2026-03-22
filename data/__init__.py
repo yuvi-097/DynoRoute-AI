@@ -1,0 +1,1 @@
+# pathmind-ai package markers
