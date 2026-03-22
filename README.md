@@ -171,38 +171,9 @@ DynoRoute-AI/
 * Model integration
 * Real-time decision system
 
----
-
-## 🔥 Why This Project Stands Out
-
-* Combines **DSA + ML + DL in one system**
-* Solves a **real-world large-scale problem**
-* Built with **minimal reliance on pretrained models**
-* Demonstrates **end-to-end AI system design**
-
----
-
-## 🧾 Resume Highlight
-
-> Built DynoRoute AI, a hybrid traffic intelligence system integrating graph algorithms and LSTM-based time-series prediction to enable dynamic route optimization under changing traffic conditions.
-
----
-
 ## 🚀 Future Improvements
 
 * Real-time data streaming (Kafka)
 * Reinforcement learning for routing
 * Integration with real maps (OpenStreetMap)
 * Graph Neural Networks (GNNs)
-
----
-
-## 🤝 Contributing
-
-Open to improvements and ideas! Feel free to fork and enhance 🚀
-
----
-
-## ⭐ Acknowledgment
-
-Inspired by real-world systems like Google Maps and Uber routing engines.
